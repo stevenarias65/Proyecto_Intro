@@ -13,7 +13,7 @@ def abriVentana():
     root = Toplevel(ventana) 
 
     
-botton = Button(ventana, text="Click aqui", command=abriVentana).pack()
+#botton = Button(ventana, text="Click aqui", command=abriVentana).pack()
 
 
 
