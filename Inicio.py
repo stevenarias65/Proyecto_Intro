@@ -12,11 +12,11 @@ def abriVentana():
     global root;
     root = Toplevel(ventana) 
 
-    
+
 botton = Button(ventana, text="Click aqui", command=abriVentana).pack()
 
 
-
+#esto es algo
     
 
 ventana.mainloop()
